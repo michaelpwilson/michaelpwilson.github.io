@@ -1,1 +1,0 @@
-import{a as t,o as _,b as r,f as n,t as o}from"./entry.667a73b0.js";const s={props:{text:{type:String,required:!0},href:{type:String,required:!0}}},c=["href"];function a(i,p,e,d,f,u){return _(),r("div",null,[n("a",{href:e.href},o(e.text),9,c)])}const x=t(s,[["render",a],["__scopeId","data-v-f5562c12"]]);export{x as _};
